@@ -59,3 +59,7 @@ Biasanya **CR ≤ 0.10** dianggap konsisten.
 ### 1) Install dependency
 ```bash
 pip install -r requirements.txt
+
+###2) Jalankan Streamlit
+'''bash
+streamlit run app.py
